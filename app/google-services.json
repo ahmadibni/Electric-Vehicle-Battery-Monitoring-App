@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1011121213286",
+    "firebase_url": "https://battery-monitoring-app-default-rtdb.firebaseio.com",
+    "project_id": "battery-monitoring-app",
+    "storage_bucket": "battery-monitoring-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011121213286:android:2e73dd7e484d9786a642a7",
+        "android_client_info": {
+          "package_name": "com.elvis.batterymonitoringapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011121213286-1cuh06d76dg5vg2k66k3s8ujna9og96e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elvis.batterymonitoringapp",
+            "certificate_hash": "4ec25e5a6c0d0867acf73452fde956607245fee4"
+          }
+        },
+        {
+          "client_id": "1011121213286-q88dsgtoeu2c8o4o0gnlmma808pfao2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC60aqiH4aN9H-jC80KYTLAdDOLe7veX_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011121213286-59jv602kiuoi0ud5vmsjp7c7vdvgr2ah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BatteryMonitoringApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/green1end</item>
+         <item name="colorPrimaryVariant">#216124</item>
+    </style>
+
+    <style name="Theme.BatteryMonitoringApp" parent="Base.Theme.BatteryMonitoringApp" />
+
+    <style name="CircularDeterminateProgressBar">
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:progressDrawable">@drawable/circle</item>
+    </style>
+
+</resources>
